@@ -2,6 +2,12 @@
 
 This is a download of the Bee Swarm Simulator wiki on fandom, posted to github pages with MKDocs-Material.
 
+> [!NOTE]
+> Please look into contributing to the original wiki if you can. Its 100% community made and can use your help!
+
+> [!WARNING]
+> The formatting is kinda fucked and I'm working on getting a better version out there
+
 > [!IMPORTANT]
 > I am NOT affiliated with Fandom, Roblox or Onett.
 >
