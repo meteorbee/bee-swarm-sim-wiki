@@ -1,0 +1,38 @@
+# All-Time Top Brown Bear Helpers
+
+{{DailyCheck}}
+''(Leaderboard as of 04/08/2025)''         
+
+{{LB
+|name1=7Elevenss|amount1=1,293|
+|name2=Tansawan0203|amount2=1,148|
+|name3=Squibcake_s|amount3=1,106|
+|name4=proutatito|amount4=1,064|
+|name5=Doc_Nana|amount5=1,063|
+|name6=minuie30|amount6=1,062|
+|name7=azbooboo|amount7=1,053|
+|name8=Morengatrees|amount8=1,046|
+|name9=20BlackPanter20|amount9=1,043|
+|name10=MammaMia530|amount10=1,013|}}
+
+The '''Top Brown Bear Helpers Leaderboard''' is one of the {{WikiVariables|LeaderboardCount}} [[leaderboards]] in the game. This leaderboard shows the top 100 people who've completed the most [[quests]] for [[Brown Bear]]. It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. There is no pad for the player to see their current progress, making it the only leaderboard that is currently in the game to not have one.
+
+==Location==
+It is located to the right of Brown Bear.
+
+== Achievements ==
+
+* On 6/7/2020, Lipsisas was the first user to reach 300 quests and obtain the {{Cost|Brown Cub|||0}} skin.
+* Sometime in mid-April 2023, 7Elevenss was the first user to reach 1,000 Brown Bear quests completed.
+
+== Trivia ==
+
+* This is currently the only leaderboard that does not show how much of the current objective the player has obtained. Instead, Brown Bear tells the player how much of the objective they've done every time they complete a quest. 
+** There were originally three leaderboards that did not show this, but the [[Most Commando Captures]] leaderboard was removed from the game and the [[Highest Damage to a Single Puffshroom]] leaderboard had a pad after some time.
+* This is the only leaderboard that counts the total amount of quests completed for a [[:Category:Bears|bear]].
+* 7Elevenss, the user that is currently at the top of the Top Brown Bear Helpers leaderboard, is also currently at the top of the [[Top Riley Bee Helpers]] leaderboard.
+
+{{MapNav}}
+[[Category:Leaderboards]]
+[[Category:Locations]]
+[[Category:Starter Zone]]

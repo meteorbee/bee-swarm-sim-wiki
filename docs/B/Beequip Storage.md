@@ -1,0 +1,3 @@
+# Beequip Storage
+
+#redirect [[Beequip]]

@@ -1,0 +1,4 @@
+# Eggs
+
+#REDIRECT [[Egg]]
+__STATICREDIRECT__

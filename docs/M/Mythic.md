@@ -1,0 +1,3 @@
+# Mythic
+
+#REDIRECT [[Bees/Mythic]]

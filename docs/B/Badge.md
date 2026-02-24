@@ -1,0 +1,3 @@
+# Badge
+
+#REDIRECT [[Badges]]

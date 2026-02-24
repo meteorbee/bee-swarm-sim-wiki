@@ -1,0 +1,80 @@
+# Smooth Dice
+
+{{Consumables
+|image = Smooth Dice.png
+|description = Boosts 2 random fields for 200% pollen for 15 minutes.
+|cooldown = 2 seconds
+}}
+The {{Color|Smooth Dice}} is an [[:Category:Inventory|inventory item]] that was added in the [[Updates#2021.12.26|12/26/21 update]]. When used, it will boost 2 random [[fields]], each granting 200% pollen [[field boost]]s. Using this item while there is another dice boost active replaces the last dice boost duration.
+
+== Ways to obtain ==
+* [[Crafting]] via [[Blender]] for:
+** {{Cost|Field Dice|3}}
+** {{Cost|Soft Wax|3}}
+** {{Cost|Whirligig|3}}
+** {{Cost|Oil|3}}
+* As a token
+** A token ontop of [[Dapper Bear's Shop]], in the corner.
+** As a token on top of [[Hive Hub]], after completing parkour.
+* As a rare drop from [[Mantis]] and [[King Beetle]].
+* As a drop from Planters:
+** {{Cost|Petal Planter}} and {{Cost|Tacky Planter}} have a chance to drop smooth dice.
+** Planters in the [[Pumpkin Patch]] give extra smooth dice.
+* As a bonus drop by harvesting a planter in the [[Clover Field]].
+* As a rare drop from [[Puffshroom]]s except for common puffshroom.
+* As a reward from the [[Robo Bear Challenge]].
+* As a reward from the Retro Swarm Challenge.
+* As a Stack Reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+** The Orange Swirled Marble rewards 3 smooth dice.
+** The Blue and Green Marble rewards 3 smooth dice.
+** The Yellow Swirled Marble rewards 3 smooth dice.
+* Activating the [[target]] in the [[Sunflower Field]], on the [[Instant Converter]] drops one smooth dice.
+
+=== Outdated Ways ===
+{| class="mw-collapsible mw-collapsed article-table"
+|+
+|-
+|
+* From a token inside the 2021 [[Beesmas Tree]].
+* Purchasing the Charming Bundle in [[Bee Bear's Catalog]] for 3333 [[Snowflake]] gave {{Cost|Smooth Dice|25}} + other stuff.
+* As a reward from finishing a [[Robo Party]].
+* For completing 3rd, 8th, 12th and 15th [[Bee Bear|Bee Bear's]] [[Beesmas|Beesmas 2022]] quests (1, 3, 3 and 10 for those accordingly)
+* As a reward from [[Memory Match#Winter Memory Match|Winter Memory Match]].
+* The Pastel Gift Box gave 4 smooth dice + other items.
+* Using certain expired [[codes]]:
+** 5Years (Gave 5 smooth dice + other stuff).
+** boo swarm (Gave 1 smooth dice + other stuff)
+** BoxWhoops (Gave 1 smooth dice +other stuff)
+|}
+
+== Crafting Uses ==
+Total required for all in-game equipment: {{Cost|Smooth Dice|0}}
+{| class="mw-collapsible mw-collapsed article-table"
+|+
+! style="text-align: center" |{{Cost|Smooth Dice}}
+!Other ingredients
+! style="text-align: center" |Result
+|-
+|<div style="text-align: center;">3
+|{{Cost|Hard Wax|3}}<br>{{Cost|Oil|3}}<br>{{Cost|Glue|1}}
+|[[File:Loaded Dice.png|center|80px]]<div style="text-align: center;">{{Color|Loaded Dice}}
+|}
+
+== Trivia ==
+* Smooth Dice's raw ingredients cost:
+** {{Cost|Royal Jelly|270}}
+** {{Cost|Sunflower Seed|450}}
+** {{Cost|Pineapple|300}}
+** {{Cost|Blueberry|150}}
+** {{Cost|Strawberry|150}}
+** {{Cost|Honeysuckle|30}}
+** {{Cost|Whirligig|6}}
+
+* Smooth Dice and {{Cost|Loaded Dice}} are the only items that can grant more than x1 stack of [[field boost]].
+{{Items}}
+[[Category:Dice]]
+[[Category:Inventory]]
+[[Category:Items]]
+[[Category:Consumables]]
+[[Category:Field Boosters]]
+[[Category:Crafted]]

@@ -1,0 +1,3 @@
+# Luck
+
+#REDIRECT [[Loot Luck]]

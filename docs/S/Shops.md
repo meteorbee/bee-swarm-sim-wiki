@@ -1,0 +1,3 @@
+# Shops
+
+#redirect [[Category:Shops]]

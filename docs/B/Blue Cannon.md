@@ -1,0 +1,18 @@
+# Blue Cannon
+
+[[File:Bluecannon2.png|thumb|220x220px|The Blue Cannon]]
+The '''Blue Cannon''' is located on a rock platform between the [[Pine Tree Forest]] and the [[Rose Field]], neighbouring the [[Royal Jelly Shop]]. It is available for use once the player has discovered 16 [[Bees|bee]] types. If used without certain [[Buffs & Debuffs|buffs]] or [[items]], such as the [[Parachute]] or [[Glider]], it will usually shoot the player to the 1 row of flowers of the [[Clover Field]] closest to [[Brown Bear]]; however, it may occasionally undershoot the player to the [[Slingshot]] or between the [[Mushroom Field|Mushroom]] and the [[Dandelion Field]]. It has a 5 second cooldown period.
+
+It can be used in unison with either the Parachute or Glider to collect the [[Royal Jelly]] token on top of the tallest dandelion in the Dandelion Field. Players who have acquired either the Parachute or Glider can also use the Blue Cannon to reach the [[Star Hall]].
+
+== Trivia ==
+
+* This is one of the four cannons in the game, which the other three cannons are [[Yellow Cannon]], [[Red Cannon]], and [[Gummy Cannon]].
+** This is one of the three transportational cannons in the game, which the other two cannons are [[Yellow Cannon]] and [[Red Cannon]].
+* The Blue Cannon has a cooldown of 5 seconds. While this is not normally possible to see during regular gameplay as the cannon launches the player too far to return in 5 seconds, the cooldown can be seen by using the Glider/Parachute glitch to stop all momentum as soon as the player exits the cannon.
+**This cooldown is shared by all the transportational cannons.
+
+{{MapNav}}
+[[Category:Transport]]
+[[Category:Locations]]
+[[Category:Machines]]

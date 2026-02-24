@@ -1,0 +1,3 @@
+# Fire
+
+#REDIRECT [[Flame]]

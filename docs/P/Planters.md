@@ -1,0 +1,3 @@
+# Planters
+
+#redirect [[Planter]]

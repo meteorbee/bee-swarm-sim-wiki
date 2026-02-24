@@ -1,0 +1,3 @@
+# Beequip Case
+
+#redirect [[Beequip]]

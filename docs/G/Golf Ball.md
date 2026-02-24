@@ -1,0 +1,3 @@
+# Golf Ball
+
+#REDIRECT [[Golf]]

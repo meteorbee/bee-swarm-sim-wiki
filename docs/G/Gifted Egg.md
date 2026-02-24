@@ -1,0 +1,3 @@
+# Gifted Egg
+
+#REDIRECT [[Egg]]

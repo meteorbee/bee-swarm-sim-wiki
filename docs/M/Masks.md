@@ -1,0 +1,4 @@
+# Masks
+
+#redirect
+[[:Category:Hats]]

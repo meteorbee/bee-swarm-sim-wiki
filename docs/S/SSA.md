@@ -1,0 +1,4 @@
+# SSA
+
+#redirect [[Star_Amulet#Supreme_Star_Amulet]]
+Redirect please

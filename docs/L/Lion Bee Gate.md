@@ -1,0 +1,25 @@
+# Lion Bee Gate
+
+{{Bee Gate
+|title1 = Lion Bee Gate
+|image1 = LionBeeGate.png
+|caption1 = The Lion Bee Gate.|shops = * [[Mountain Top Shop]].
+* [[Ticket Shop]].|fields = * [[Mountain Top Field]].|extras = * [[Bear Gate]].
+* [[Instant Converter]].
+* [[Field Booster]].|mobs = *[[Mondo Chick]]}}The '''Lion Bee Gate''', also known as the '''Mountain Top Gate''' or the '''25 Bee Gate''', is a [[:Category:Gates|gate]] that requires 25 [[bees]] to pass through. It is located at the end of the slope beside the [[Pumpkin Patch]].
+
+It gets its name from the large statue of a [[Lion Bee]] located on top of it.
+
+This area contains the [[Mountain Top Field]], [[Mondo Chick]], [[Sticker Printer]], [[Field Booster]], [[Instant Converter]], [[Ticket Shop]] and the [[Mountain Top Shop]].
+
+== Trivia ==
+* As of the [[Updates#2019.09.28|9/28/2019 update]], the player will be teleported back to spawn if they manage to bypass the gate, whether if it was by jumping around it or using the [[Red Cannon]] without the Parachute.
+* This and the [[Ant Gate]] share a few similarities.
+** They are the only gates that don't have a [[Quest Givers|quest giver]] behind them.
+*** If one were to count the [[Sticker-Seeker Quest Machine]] inside the [[Hive Hub|Hive Hub Portal]] past the Ant Gate, then this would be the only gate that doesn't have a quest giver behind it.
+**They are the only gates that only contain 1 [[Fields|field]].
+*** If one were to count the [[Hub Field]] inside the [[Hive Hub|Hive Hub Portal]] past the Ant Gate, then this would be the only gate that contains 1 field.
+
+{{MapNav}}
+[[Category:Gates]]
+[[Category:Locations]]

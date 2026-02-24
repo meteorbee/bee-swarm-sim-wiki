@@ -1,0 +1,3 @@
+# Beesmas
+
+#REDIRECT [[:Category:Beesmas]]

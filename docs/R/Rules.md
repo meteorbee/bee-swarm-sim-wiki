@@ -1,0 +1,3 @@
+# Rules
+
+#REDIRECT [[Wiki Rules]]

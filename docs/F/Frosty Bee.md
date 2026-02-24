@@ -1,0 +1,56 @@
+# Frosty Bee
+
+{{Bee
+|image-orig = Frosty_Bee.png
+|image-gifted=FrostyBee Gifted.png
+|description = A bee made of snow. It magically came to life after someone put a top hat on its head.
+|rarity = Epic
+|color = Blue
+|energy = 25
+|energylabel = more
+|speed = 11.2
+|attack = 1
+|skincolor1 = #f1f1f1
+|skincolor2 = #3b8ed1
+|skincolor3 = #f1f1f1
+}}
+'''Frosty Bee''' is a [[:Category:Blue|Blue]] [[Bees/Epic|Epic bee]].
+
+Frosty Bee's favorite type of treat is {{Cost|Blueberry}}.
+
+Frosty Bee likes the [[Blue Flower Field]], and the [[Mountain Top Field]]. It dislikes the [[Mushroom Field]].
+
+== Stats  ==
+* Collects 10 [[Pollen]] in 4 seconds.
+* Makes 80 [[Honey]] in 4 seconds.
+* +25% [[Energy]], -20% [[Stats#Speed|Movespeed]].
+* 🌟 [[Gifted Bee|Gifted Hive Bonus]]: x1.25 [[System Page#Blue Bomb Pollen|Blue Bomb Pollen]].
+
+=== Abilities ===
+* '''[[Ability Tokens#Boost|[Blue Boost]]]''' Grants x1.2 pollen from blue [[Flowers]] for 15s. Stacks up to 10 times.
+* '''[[Ability Tokens#Bomb|[Blue Bomb+]]]''' Collects 10 pollen from 29 surrounding blue flowers (+10% pollen per Level). Combo with other bombs to increase power.
+
+{{Stat|pollen = 10|pollentime = 4|honey = 80|honeytime = 4|rarity = epic|color = blue}}
+
+== Gallery ==
+<gallery hideaddbutton="true">
+FrostyBee Hive.png|Frosty Bee's old hive slot design.
+GiftedFrostyBeehive.PNG|A Gifted Frosty Bee hive slot.
+FrostyFace.png|Frosty Bee's face.
+Originalfrostyface.png|Frosty Bee's original face.
+File:FrostyBeeJelly.png|A Frosty Bee Jelly in a player's inventory.
+</gallery>
+
+== Trivia ==
+*Frosty Bee, [[Commander Bee]], and [[Buoyant Bee]] are the only [[bees]] that wear hats.
+*Frosty Bee is likely a reference to Frosty the Snowman.
+*The red counterpart of Frosty Bee is [[Bees|Rage Bee]].
+*A Frosty Bee Jelly could have been obtained from one of the bundles/packs in [[Bee Bear’s Catalog|Bee Bear's Catalog]].
+*This bee's name is the placeholder's name for any bee in a hive slot that hasn't loaded yet.
+*The bee may like mountain top field because it is cold on high mountains.
+
+{{BeeNav}}
+[[Category:Bees]]
+[[Category:Epic]]
+[[Category:Blue]]
+[[zh-tw:冰雪蜂]]

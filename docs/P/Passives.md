@@ -1,0 +1,3 @@
+# Passives
+
+#REDIRECT [[Passive Abilities]]

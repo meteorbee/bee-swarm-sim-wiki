@@ -1,0 +1,3 @@
+# Mushroom
+
+#redirect [[Puffshroom]]

@@ -1,0 +1,3 @@
+# Radioactive
+
+#REDIRECT [[Radiation]]

@@ -1,0 +1,70 @@
+# Coconut Cave
+
+[[File:CocoCaveIntererior.png|alt=|right|thumb|210x210px|The inside of the Coconut Cave.]]
+The '''Coconut Cave''' is a cave located next to the [[Coconut Field]]. To access the cave, the player is required to defeat the [[Coconut Crab]] when it respawns out of the cave, If the player has not defeated the Coconut Crab yet and attempts to enter the cave (without actually standing in the field), they will be teleported back to the spawn place. There is also an invisible barrier on top of the Cave to prevent players from entering the cave when the Coconut Crab is not defeated yet, this is used to avoid lagging players from entering the cave without Coconut Crab being defeated.
+
+The interior contains the [[Fastest Crab Slayers Leaderboard]], the [[Coconut Dispenser]], and a [[:Category:Shops|shop]] where the player can buy the [[Coconut Clogs]], the [[Coconut Canister]] and the [[Coconut Belt]].
+
+{| class="article-table"
+|-
+!Item
+!Cost
+!Description
+|-
+|[[File:CoconutClogsShop.png|80px|center]]<div style="text-align: center;">[[Coconut Clogs]]</div>
+|{{Cost|Honey|{{Hover|10B|10,000,000,000}}}}<br>{{Cost|Coconut|150}}<br>{{Cost|Tropical Drink|50}}<br>{{Cost|Glue|100}}<br>{{Cost|Oil|100}}<br>{{Cost|Refreshing Vial|1}}
+|Kick around Coconuts with this pair of clunky kicks for a surge of speed.
+*+15% Pollen
+*x1.15 [[Coconut Field]] Pollen
+*+25% [[System Page#Honey From Tokens|Honey From Tokens]]
+*+2 [[Bee Attack]]
+*+7 [[System Page#Movespeed|Movespeed]]
+*+22 [[System Page#Jump Power|Jump Power]]
+*+14 [[Movement Collection]]
+*[[Passive Abilities#Coconut Haste|+Passive: Coconut Haste]]
+|-
+|[[File:Coconut Canister.png|80px|center]]<div style="text-align: center;">[[Coconut Canister]]</div>
+|{{Cost|Honey|{{Hover|25B|25,000,000,000}}}}<br>{{Cost|Tropical Drink|150}}<br>{{Cost|Coconut|250}}<br>{{Cost|Red Extract|150}}<br>{{Cost|Blue Extract|150}}<br>{{Cost|Refreshing Vial|2}}
+|A back-mounted coconut that protects you during emergencies.
+*+1,000,000 Capacity
+*x1.25 [[Capacity]]
+*+400% [[System Page#Convert Rate|Convert Rate]]
+*x1.5 Conversion Rate At Hive
+*+10% [[System Page#Instant Conversion|Instant Conversion]]
+*+10% [[System Page#Instant White Conversion|Instant White Conversion]]
+*+100% [[System Page#White Pollen|White Pollen]]
+*[[Passive Abilities#Emergency Coconut Shield|+Passive: Emergency Coconut Shield]]
+*[[Passive Abilities#Inspire Coconuts|+Passive: Inspire Coconuts]]
+|-
+|[[File:Coconut Belt.png|80px|center]]<div style="text-align: center;">[[Coconut Belt]]</div>
+|{{Cost|Honey|{{Hover|7.5T|7,500,000,000,000}}}}<br>{{Cost|Coconut|500}}<br>{{Cost|Tropical Drink|1,500}}<br>{{Cost|Purple Potion|200}}<br>{{Cost|Hard Wax|200}}<br>{{Cost|Turpentine|3}}<br>{{Cost|Refreshing Vial|3}}
+|This cumberbund creates Combo Coconuts that can be juggled for massive boosts!
+*+350,000 Capacity
+*+75% Capacity
+*+120 [[System Page#Convert Amount|Convert Amount]]
+*+102% [[System Page#Loot Luck|Loot Luck]]
+*+100% Honey From Tokens
+*x1.1 [[Coconut Field]] Pollen
+*+10% Gifted Bee Pollen
+*+1 [[System Page#Bee Attack|Bee Attack]]
+*[[Passive Abilities#Petal Storm|+Passive: Petal Storm (Needs Petal Belt)]]
+*[[Passive Abilities#Combo Coconuts|+Passive: Combo Coconuts]]
+|}
+
+==Gallery==
+<gallery widths="185">
+Lockedcococave.png|The cave locked when the Coconut Crab has respawned/is here for the first time.
+Unlockedcococave.png|The cave open when the Coconut Crab is defeated.
+Lock.png|The decal used whenever the Coconut Crab has respawned.
+</gallery>
+
+== Trivia ==
+* If the player is in the Coconut Cave when the Coconut Crab respawns, they will be teleported the same way if they tried to bypass a [[:Category:Gates|gate]] without meeting the requirements. The teleport area also encompasses the roof of the cave. This can be avoided by going into the hole above the Coconut Dispenser.
+* There is a hole above the Coconut Dispenser that leads to a tunnel containing 4 tokens: one [[Enzymes|enzyme]], 5 [[ticket]]s, 5 [[Jelly Beans|jelly beans]], and a [[Robo Pass]].
+* This is the only shop that is guarded by a [[mob]].
+* This shop, [[Robo Bear's Shop|Robo Bear’s Shop]], [[Ticket Tent]], and [[Dapper Bear’s Shop]] are the only shops that do not play the [[Music#Vendor|vendor]] soundtrack.
+* If the player looks through the cave with the [[Porcelain Dipper]] or through the {{Cost|Hydroponic Planter|4=0}}, they can see the interior of the cave without having to go in.
+
+{{MapNav}}
+[[Category:Shops]]
+[[Category:Locations]]

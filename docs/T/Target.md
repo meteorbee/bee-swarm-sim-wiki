@@ -1,0 +1,3 @@
+# Target
+
+#REDIRECT [[Golf#Targets]]

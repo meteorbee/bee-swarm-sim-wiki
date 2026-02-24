@@ -1,0 +1,3 @@
+# Wax
+
+#REDIRECT [[Waxes]]

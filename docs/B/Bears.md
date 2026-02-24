@@ -1,0 +1,3 @@
+# Bears
+
+#REDIRECT [[Category:Bears]]
